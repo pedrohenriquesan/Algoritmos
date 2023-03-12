@@ -1,2 +1,2 @@
 # Algoritmos
- Relembrando as bases da programação
+ Relembrando as bases da programação.
